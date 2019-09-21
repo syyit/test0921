@@ -1,0 +1,13 @@
+    
+    /*這裡寫CSS的語法*/ /*CSS選擇器*/
+    .all{background-color: #cccccc}
+    .title{font-size:24px; font-weight:bold}
+    .content{width:500px; margin-top:10px; border:1px dashed blue; padding:10px;}
+    .keyword{color:red}
+    .test{background-color: grey}
+    .underline{text-decoration:underline}
+     /*ID選擇器*/
+     #del{text-decoration:line-through}
+     /*標籤名稱選擇器 前面不加任何裝飾*/
+     span{font-weight:bold}
+     body{background-color:#cccccc; font-family:"微軟正黑體","新細明體"}
